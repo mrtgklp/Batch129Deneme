@@ -5,6 +5,7 @@ public class Deneme {
         System.out.println("Hi EveryBody");
         System.out.println("Worlds");
         System.out.println("B129");
+        //Git
     }
 }
 //restore-->Tamamen working space i temizler
