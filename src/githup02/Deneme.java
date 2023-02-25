@@ -13,6 +13,8 @@ public class Deneme {
 
         //normally
 
+        //murat yeni ekleme
+
     }
 }
 //restore-->Tamamen working space i temizler
