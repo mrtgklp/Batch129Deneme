@@ -9,6 +9,8 @@ public class Deneme {
         //Merhaba
         //Github 2.deneme
         //Githup
+        //Murat branch"
+        //master yorum
     }
 }
 //restore-->Tamamen working space i temizler
