@@ -8,6 +8,7 @@ public class Deneme {
         //Git
         //Merhaba
         //Github 2.deneme
+        //Githup
     }
 }
 //restore-->Tamamen working space i temizler
